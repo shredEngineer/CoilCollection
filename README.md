@@ -11,4 +11,4 @@ The `.txt` files can be loaded as wires in [MagnetiCalc](https://github.com/shre
 
 ## License
 
-Do what the f*** you want with this. (WTFPL)
+([WTFPL](http://www.wtfpl.net/faq/))
